@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/telgenhofar/blog-preview-frontendmentor)
-- Live Site URL: [Add live site URL here](https://telgenhofar.github.io/blog-preview-frontendmentor/)
+- Solution URL: [Repo](https://github.com/telgenhofar/blog-preview-frontendmentor)
+- Live Site URL: [GitHub Page](https://telgenhofar.github.io/blog-preview-frontendmentor/)
 
 ## My process
 
